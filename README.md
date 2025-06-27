@@ -1,3 +1,5 @@
+![LinkedIn Cover Image](https://github.com/user-attachments/assets/64b8a3d9-5bf1-474e-b17d-8587f1e08c59)
+
 I am deeply focused on leveraging deep learning to support cognitive and emotional wellness — designing systems that understand, adapt to, and respond to the human mind with care and intelligence.
 
 My current work explores how machine learning can interpret subtle patterns in speech, behavior, and visual cues to detect mental states, enhance emotional insight, and enable early intervention.
